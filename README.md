@@ -25,3 +25,4 @@ By default, Rspec-Rails configures your spec_helper to use verifying doubles.
 * https://semaphoreci.com/community/tutorials/mocking-with-rspec-doubles-and-expectations
 * https://relishapp.com/rspec/rspec-mocks/v/3-6/docs
 * https://github.com/rspec/rspec-mocks
+* http://blog.firsthand.ca/2011/12/example-using-rspec-double-mock-and.html
